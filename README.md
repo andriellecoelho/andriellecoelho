@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML and Python ...
-- 😄 Pronouns:she/her...
+- 🌱 Estudando HTML and Python
+- 😄 Pronouns:ela/dela
 
