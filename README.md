@@ -1,7 +1,7 @@
 Hi there 👋
 
 - 🌱 Estudando HTML e Python
-- 😄 Pronouns:ela/dela
+- 😄 Pronouns: ela/dela
 
  <div>
   <a href="https://github.com/andriellecoelho">
@@ -12,3 +12,7 @@ Hi there 👋
 
    <img align="center" alt="Andri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Andrie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ 
+## 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andri_py)
+
